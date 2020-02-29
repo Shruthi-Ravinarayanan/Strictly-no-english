@@ -1,0 +1,2 @@
+# Strictly-no-english
+An Engineer is a person who is always keen and  interested in providing best alternative solution to any social problem. Keeping this mindset and visualizing the problems in healthcare domain for the masses in many countries, it is observed that annually several people die due to ignorance of their body vital signs. By identifying this problem, we suggest a wearable health device design to monitor the basic vital signs. 
